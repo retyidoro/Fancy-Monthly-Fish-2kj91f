@@ -1,0 +1,29 @@
+.component1-container {
+  width: 468px;
+  height: 715px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component1-container1 {
+  flex: 0 0 auto;
+  width: 282px;
+  height: 272px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component1-container2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component1-text {
+  display: none;
+}
+
+

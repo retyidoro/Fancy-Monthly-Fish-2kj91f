@@ -1,0 +1,56 @@
+.component-container {
+  zoom: 0.75;
+  width: 439px;
+  height: 591px;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.component-container1 {
+  flex: 0 0 auto;
+  width: 200px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component-image-er {
+  width: 100px;
+  object-fit: cover;
+}
+.component-button1 {
+  zoom: 2;
+}
+.component-container2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.component-container3 {
+  flex: 0 0 auto;
+  width: 207px;
+  height: 139px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component-container4 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component-container5 {
+  flex: 0 0 auto;
+  width: 200px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
